@@ -1,0 +1,37 @@
+*{
+	margin: 0;
+	padding: 0;
+	font-size: 20px;
+}
+
+.container{
+	margin: auto;
+	border: 2px solid rgb(117, 62, 62);
+	top: 30px;
+	width: 600px;
+	height: auto;
+	align-items: left;
+}
+
+header {
+	background-color: rgb(85, 61, 61);
+	height: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+button {
+	margin-right: 0;
+	background-color: transparent;
+	font-size: 14px;
+}
+
+footer {
+	background-color: rgb(165, 146, 146);
+	height: 50px;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+}
